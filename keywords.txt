@@ -1,0 +1,11 @@
+# Class
+controller	KEYWORD1
+
+# Functions
+post_auth_user			KEYWORD2
+get_status_of_light		KEYWORD2
+change_status_of_light	KEYWORD2
+set_username			KEYWORD2
+
+# namespace
+philips_hue_api	KEYWORD3
